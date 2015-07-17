@@ -1,4 +1,4 @@
-#define      M 002354l
+
 #define     A   000644l
 #define    G     000132l
 #define     I   000322l
